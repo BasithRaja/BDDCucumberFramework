@@ -13,7 +13,7 @@ glue = {"StepDefinition19" },
 tags = "@Regression",
 dryRun = false, 
 monochrome = false,
-plugin = { "pretty", "html:target/HtmlReports/index.html", "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" }
+plugin = { "pretty", "html:target/HtmlReports/index.html","json:target/cucumber.json", "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" }
 
 )
 
