@@ -12,7 +12,7 @@ Feature: Creation of new Customer
     And user navigates into New Customer Page
     And user entered below details in the respective fields
       | Name        | DOB        | Address | City    | State      | PIN    | Phone      | Email             | Password |
-      | Basith Raja | 01/01/1995 | Chennai | Chennai | Tamil Nadu | 600001 | 9876543210 | basith0976@gmail.com | test123  |
+      | Basith Raja | 01/01/1995 | Chennai | Chennai | Tamil Nadu | 600001 | 9876543210 | basith0900000076@gmail.com | test123  |
     And User clicks on Gender button
     And User clicks on Submit button
     Then Customer should be created successfully
