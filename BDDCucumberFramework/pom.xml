@@ -28,12 +28,7 @@
     <scope>compile</scope>
 </dependency>
 <!-- Source: https://mvnrepository.com/artifact/org.testng/testng -->
-<dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>7.7.1</version>
-    <scope>test</scope>
-</dependency>
+
 <dependency>
     <groupId>io.cucumber</groupId>
     <artifactId>cucumber-java</artifactId>

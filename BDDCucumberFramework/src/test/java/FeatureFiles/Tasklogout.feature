@@ -3,8 +3,8 @@ Feature: Logging Out
 
   Background: 
     Given user opens the browser URL
-    And user enters the username as "mngr664067"
-    And user enters the password as "bYqYhat"
+    And user enters the username as "mngr664581"
+    And user enters the password as "hanygUq"
     When user clicks on login button
     Then user is on the homepage of the application
 
